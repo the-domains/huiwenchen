@@ -1,6 +1,6 @@
 name: huiwenchen
 favicon: null
-layout_spectrum: 0.95782
+layout_spectrum: 0.76321
 typography_spectrum: 0.8747523508500308
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2d2c2c'
+    - '#edc7ba'
     - '#ffffff'
-    - '#a9a9a9'
-    - '#686767'
-    - '#898888'
+    - '#b1ffcd'
+    - '#d9d9d9'
+    - '#d7fee5'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
