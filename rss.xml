@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[huiwenchen]]></title>
+        <description><![CDATA[huiwenchen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 07:19:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me]]></title>
+            <description><![CDATA[<article><h1>About me</h1><p>Photographer from Taiwan, live in Germany.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1a9b20a76d7070331251ec5a7f4d4f2b6a5344b.jpg"></article>]]></description>
+            <link>undefinedabout-me/index.html</link>
+            <guid isPermaLink="false">6d15430a-2b14-43cb-bd51-f02e7bd55316</guid>
+            <pubDate>Sun, 27 Dec 2015 07:19:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
